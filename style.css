@@ -1,0 +1,87 @@
+.navbar{
+    background-color: #2575fc;
+    padding-bottom: 20px;
+}
+.nav-link{
+    color: aliceblue;
+}
+.nav-link:hover{
+    color: black;
+}
+#about{
+    background-color: #F6FBF4;
+}
+.content-heading{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-image: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 40px;
+    margin-bottom: 10px;
+
+}
+.btn{
+    color: black;
+}
+
+
+.me-image{
+    width: 300px;
+    margin-top: 25px;
+    border-radius: 5%;
+
+}
+.about-column{
+    padding: 20px 16px;
+}
+.hobbies{
+    margin-top: 20px;
+    padding-bottom: 5px;
+    font-size: 1.5rem;
+}
+#project{
+    background-color: #F6FBF4;
+padding-bottom: 30px;
+}
+#skills{
+    background-color: #F6FBF4;
+}
+#likes{
+    background-color: #F6FBF4;
+padding-bottom: 40px;
+}
+#contact{
+    padding: 2% 3% 5% 3% ;
+    background-color: #f1f1f1;
+    color: #534f4f;
+text-align:left;
+}
+.card{
+    margin-bottom: 40px;
+}
+.call-email{
+    color: #534f4f;
+    text-decoration: none;
+    
+}
+.social-link{
+    color: #534f4f;
+    text-decoration: none;
+    padding: 2% 3%;
+}
+.social-media{
+    padding-top: 3%;
+}
+.feedback{
+    padding-top: 3% ; 
+    padding-bottom: 3%; 
+    color: black;
+}
+@media (max-width:1028px){
+    .feedback{
+        text-align: left;
+        margin-top: 30px;
+    margin-bottom: 20px;
+    }
+    }
